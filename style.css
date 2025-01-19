@@ -246,6 +246,7 @@ article.product button.add-to-cart img{
   font-weight: 600;
 }
 div#order-confirmed section{
+  transition: display 1 sec;
   margin: 20px 0px;
   padding: 0px 20px;
   background-color: hsla(14, 86%, 82%,0.252);
